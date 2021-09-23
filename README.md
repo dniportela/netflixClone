@@ -1,6 +1,6 @@
-# 📺 Netflix clone - Bootcamp de HTML Web Developer - DIO
+# 📺 Netflix clone - DIO
 
-<img src="dio.png" alt="capa codelândia">
+<img src="dio.png" alt="capa Digital Innovation One">
 
 <p style="text-align:center;">Você pode encontrar os cursos e Bootcamps na <a href="https://digitalinnovation.one/">Digital Innovation One</a>.
 
